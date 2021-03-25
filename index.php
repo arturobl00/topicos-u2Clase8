@@ -15,6 +15,8 @@
     </div>
 
     <div class="container">
+        <a href="calculadora.php">Ir a Calculadora</a>
+        <br/>
         <h2>Formulario PHP con metodo POST Ejemplo 1</h2>
         <form method="POST">
             <div class="form-floating mb-3">
@@ -30,6 +32,8 @@
         </form>
 
         <br/>
+
+        <!--localhost/u2Clase8/nombre="rosalba"&apellidos="Guizasola"-->
 
         <h2>Resultado</h2>
         <?php
